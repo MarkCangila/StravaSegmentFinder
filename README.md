@@ -1,0 +1,1 @@
+I wanted to beat strava segments and get KOMs, so this app should scan all segments within a certain range of a stated point, and categorize each one based on the average speed, controlled by grade, to find easy KOMs to beat.
